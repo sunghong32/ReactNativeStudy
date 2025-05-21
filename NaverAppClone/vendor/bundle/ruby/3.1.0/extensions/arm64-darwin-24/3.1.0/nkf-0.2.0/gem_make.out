@@ -1,0 +1,15 @@
+current directory: /Users/minsunghong/FASTCAMPUS-RN-WEBVIEW/NaverAppClone/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+/Users/minsunghong/.rbenv/versions/3.1.2/bin/ruby -I /Users/minsunghong/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20250521-99951-qc96k5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/minsunghong/FASTCAMPUS-RN-WEBVIEW/NaverAppClone/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= clean
+
+current directory: /Users/minsunghong/FASTCAMPUS-RN-WEBVIEW/NaverAppClone/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\=
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/minsunghong/FASTCAMPUS-RN-WEBVIEW/NaverAppClone/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250521-99951-qnpfyb
