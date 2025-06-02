@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.naverappclone.app-mergeDebugResources-26:/values-tg/values-tg.xml",
+            "outputFile": "com.naverappclone.app-mergeDebugResources-34:/values-tg/values-tg.xml",
             "map": [
                 {
-                    "source": "/Users/minsunghong/.gradle/caches/transforms-3/e1231b5b187cb579b629117f9511a862/transformed/jetified-react-android-0.73.6-debug/res/values-tg/values-tg.xml",
+                    "source": "/Users/minsunghong/.gradle/caches/transforms-3/611b1390b9c1aaefc02ef55247b041f6/transformed/jetified-react-android-0.73.6-debug/res/values-tg/values-tg.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",
